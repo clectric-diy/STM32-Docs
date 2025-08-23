@@ -3,7 +3,7 @@
 
 All documentation in this source folder has been provided by ST under their own terms of use.
 
-Please see the [community folder](../community) for documentation created by the clectric.diy Community to augment what has been provided by ST.
+Please see the [community folder](../community) for documentation created by the clectric.diy Community to augment what has been provided by STMicroelectronics.
 
 - **STM32F4 Series**  
   - [Reference Manual (RM0090)](https://www.st.com/resource/en/reference_manual/dm00031020.pdf)  
