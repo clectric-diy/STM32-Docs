@@ -13,3 +13,4 @@ This repository contains two parts:
 
 - STMicroelectronics documentation is © STMicroelectronics and subject to their [terms of use](https://www.st.com/content/st_com/en/common/terms-of-use.html).  
 - clectric.diy community documentation is provided under the CC BY-SA License.
+
